@@ -1,3 +1,6 @@
 The tea state of India.
 
 Doing One add and commit for all files.
+
+The First teachnical card is working on A states of india. 
+
